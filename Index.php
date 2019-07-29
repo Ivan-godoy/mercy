@@ -48,7 +48,7 @@
             <div class="col-xl-4 text-justify" data-aos="flip-right">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
-                        <div class="circulo-azul"></div>
+                        <div class="circulo-azul"><h1 class="text-light icon icon-library" style="margin:30px 30px 30px 30px; font-size: 55px; opacity: 50%"></h1></div>
                     </div>
                     <div class="col-xl-8 text-justify">
                         <h4>Excursiones</h4>
@@ -59,7 +59,7 @@
             <div class="col-xl-4 text-justify" data-aos="flip-right">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
-                        <div class="circulo-verde"></div>
+                        <div class="circulo-verde"><h1 class="text-light icon icon-music" style="margin:30px 30px 30px 30px; font-size: 55px; opacity: 50%"></div>
                     </div>
                     <div class="col-xl-8 text-justify">
                         <h4>Clases de Musica</h4>
@@ -70,7 +70,7 @@
             <div class="col-xl-4 text-justify" data-aos="flip-right">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
-                        <div class="circulo-amarillo"></div>
+                        <div class="circulo-amarillo"><h1 class="text-light icon icon-trophy" style="margin:30px 30px 30px 30px; font-size: 55px; opacity: 50%"></div>
                     </div>
                     <div class="col-xl-8 text-justify">
                         <h4>Educacion Fisica</h4>
@@ -83,7 +83,7 @@
             <div class="col-xl-4 text-justify" data-aos="flip-right">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
-                        <div class="circulo-rojo"></div>
+                        <div class="circulo-rojo"><h1 class="text-light icon icon-display" style="margin:30px 30px 30px 30px; font-size: 55px; opacity: 50%"></div>
                     </div>
                     <div class="col-xl-8 text-justify">
                         <h4>Lab. de Computo</h4>
@@ -94,7 +94,7 @@
             <div class="col-xl-4 text-justify" data-aos="flip-right">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
-                        <div class="circulo-morado"></div>
+                        <div class="circulo-morado"><h1 class="text-light icon icon-laptop icon-file-word" style="margin:30px 30px 30px 30px; font-size: 55px; opacity: 50%"></div>
                     </div>
                     <div class="col-xl-8 text-justify">
                         <h4>Lab. de Ingles</h4>
@@ -105,7 +105,7 @@
             <div class="col-xl-4 text-justify" data-aos="flip-right">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
-                        <div class="circulo-naranja"></div>
+                        <div class="circulo-naranja"><h1 class="text-light icon icon-feed" style="margin:30px 30px 30px 30px; font-size: 55px; opacity: 50%"></div>
                     </div>
                     <div class="col-xl-8 text-justify">
                         <h4>Banda</h4>
