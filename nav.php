@@ -11,11 +11,6 @@
         </div>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-item nav-link text-light" href="#">Inicio</a>
-                <a class="nav-item nav-link text-light" href="#">Acerda de Nosotros</a>
-                <a class="nav-item nav-link text-light" href="#">Maestros</a>
-                <a class="nav-item nav-link text-light" href="#">Clases</a>
-                <a class="nav-item nav-link text-light" href="#">Contactanos</a>
             </div>
         </div>
 </nav>

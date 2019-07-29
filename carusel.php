@@ -11,7 +11,6 @@
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Pre-Basica</h5>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                    <a href="" class="btn btn-light"><span class="icon icon-plus"></span> Más Información</a>
                 </div>
             </div>
             <div class="carousel-item img-alt" >
@@ -19,7 +18,6 @@
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Basica</h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <a href="" class="btn btn-light"><span class="icon icon-plus"></span> Más Información</a>
                 </div>
             </div>
             <div class="carousel-item img-alt">
@@ -27,7 +25,6 @@
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Media</h5>
                     <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                    <a href="" class="btn btn-light"><span class="icon icon-plus"></span> Más Información</a>
                 </div>
             </div>
         </div>

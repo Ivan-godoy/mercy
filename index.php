@@ -28,7 +28,6 @@
                 <div class="linea"></div>
                 <br>
                 <p>Muy pocos lugares impactan la vida de las personas como lo hacen los salones de clases. El presente de cada uno de nosotros se construyó, en parte, en nuestros años de estudio. En nuestra institución construimos futuro con excelencia, esto se debe gracias al trabajo comprometido de todos ustedes, y al equipo de docentes, garantizamos a las familias  y cada alumno matriculado un bienestar de oportunidades.</p>
-                <a href=""class="btn btn-blue">Acerca de nosotros</a>
             </div>
             <div class="col-md-4" data-aos="fade-up">
                 <img id="niños" alt="" src="img/niños.jpg">

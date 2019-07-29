@@ -5,7 +5,6 @@
             <div class="linea"></div>
             <br>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aperiam dolore tempora tenetur voluptates? Distinctio inventore mollitia nobis repellendus vel. Animi autem culpa cum, doloribus enim esse illum iste minima, molestias necessitatibus nostrum numquam officia quam quibusdam veniam voluptas voluptate voluptatum. Accusamus asperiores, autem dicta doloremque explicabo facere fuga id nam odio officiis, quasi quidem quos ratione, reiciendis temporibus voluptatibus.</p>
-            <a href=""class="btn btn-blue">Ver más</a>
         </div>
 
         <div class="owl-carousel owl-theme col-md-8 h-75">
