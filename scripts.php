@@ -2,8 +2,8 @@
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/scroll.js"></script>
-<script type="text/javascript" src="a%20ver/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js"></script>
-<script type="text/javascript" src="a%20ver/OwlCarousel2-2.3.4/dist/owl.carousel.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/owl.carousel.js"></script>
 
 <script>
     AOS.init();
