@@ -1,0 +1,43 @@
+*{padding: 0;margin: 0;border: 0;}
+.imagen{background-repeat: no-repeat; background-size: cover; background-position: center}
+.text-blue{color: #00a2d3;}
+.tamaño-gd{width: 100%;height: 100vh;background-color: #000000;}
+.tamaño-md{width: 100%;height: 75vh;background-color: #ffffff;}
+.tamaño-md-d{width: 100%;height: 65vh;background-color: #ffffff;)}
+.tamaño-md-d-img{width: 100%;height: 65vh;background-image: url("../img/nuevos6.jpg"); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;}
+.tamaño-sm{width: 100%;height: 25vh;background-color: #1b1e21;}
+.linea{width: 25%;height: 3px;background-color:#00a2d3;}
+.circulo-azul{width: 110px;height: 110px;background-color: rgba(0, 162, 211, 0.75);border: 4px solid rgba(0, 84, 113, 0.62);-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;}
+.circulo-verde{width: 110px;height: 110px;background-color: rgba(165, 211, 58, 0.75);border: 4px solid rgba(129, 168, 47, 0.62);-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;}
+.circulo-amarillo{width: 110px;height: 110px;background-color: rgba(213, 202, 27, 0.75);border: 4px solid rgba(124, 114, 18, 0.62);-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;}
+.circulo-rojo{width: 110px;height: 110px;background-color: rgba(213, 17, 10, 0.75);border: 4px solid rgba(100, 15, 6, 0.62);-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;}
+.circulo-morado{width: 110px;height: 110px;background-color: rgba(119, 16, 213, 0.75);border: 4px solid rgba(41, 16, 81, 0.62);-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;}
+.circulo-naranja{width: 110px;height: 110px;background-color: rgba(213, 110, 41, 0.75);border: 4px solid rgba(159, 80, 33, 0.62);-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;}
+.circulo-blanco-pe{width: 110px;height: 110px;background-color: rgba(255, 255, 255, 0.2);-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;}
+.circulo-blanco-gra{width: 150px;height: 150px;background-color: rgba(255, 255, 255, 0.1);-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px;}
+#niños{background-repeat: no-repeat;background-size: contain;width: 750px;height: 410px;}
+.btn-blue{background-color:#00a2d3;color:#fffFff;}
+.bg-dark-light{background-color: #e6f4f7;}
+.img-alt{height: 92.5vh;}
+::-webkit-scrollbar {width: 0px;}
+.append-buttons {text-align: center;margin-top: 20px;}
+.append-buttons a {display: inline-block;border: 1px solid #007aff;color: #007aff;text-decoration: none;padding: 4px 10px;border-radius: 4px;margin: 0 10px;font-size: 13px;}
+
+.w-75{
+    width: 2000px;
+}
+
+@media screen and (max-width: 412px){
+    p{font-size: large;}
+    .imagen{background-repeat: no-repeat; background-size: cover; background-position: center}
+    .img-alt{height: 40vh; background-repeat: no-repeat; background-size: cover}
+    .tamaño-gd{width: 100%;height: auto;background-color: #000000;}
+    .tamaño-md{width: 100%;height: auto;background-color: #ffffff;}
+    .tamaño-md-d{width: 100%;height: auto;background-color: #ffffff;)}
+    .tamaño-md-d-img{width: 100%;height: auto;background-image: url("../img/nuevos6.jpg"); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;}
+    #niños{background-image: url("../img/niños.jpg");background-repeat: no-repeat;background-size: contain;width: 100%;height: 200px;}
+    .light{color: #ffffff;}
+    .adios{display: none}
+}
+
+
