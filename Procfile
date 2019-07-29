@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 mercy/
+web: vendor/bin/heroku-php-apache2 
